@@ -8,6 +8,6 @@
 
 | Fuente | Enlace|
 |--------|-----------------------|
-| <img src="https://github.com/user-attachments/assets/c53d309a-084a-4c3c-b041-3d342a9ed83d" width="35" height="35" alt="Imagen"> | [https://github.com/aszurita/aszurita](https://github.com/aszurita/aszurita) |
-| <img src="https://github.com/user-attachments/assets/8fbe117e-d6ef-49f6-928d-8421cb91c767" width="35" height="35" alt="Imagen"> | [https://aszurita.github.io/aszurita/](https://aszurita.github.io/aszurita/) |
+| <img src="https://github.com/user-attachments/assets/c18e5a94-b902-4680-b383-883afd504374" width="35" height="35" alt="Imagen"> | [https://github.com/aszurita/aszurita](https://github.com/aszurita/aszurita) |
+| <img src="https://github.com/user-attachments/assets/9671dc25-1454-4795-9906-d3ac7360301e" width="35" height="35" alt="Imagen"> | [https://aszurita.github.io/aszurita/](https://aszurita.github.io/aszurita/) |
 
