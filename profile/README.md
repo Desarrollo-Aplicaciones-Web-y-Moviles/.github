@@ -11,6 +11,12 @@
 | <img src="https://github.com/user-attachments/assets/c18e5a94-b902-4680-b383-883afd504374" width="35" height="35" alt="Imagen"> | [https://github.com/aszurita/aszurita](https://github.com/aszurita/aszurita) |
 | <img src="https://github.com/user-attachments/assets/9671dc25-1454-4795-9906-d3ac7360301e" width="35" height="35" alt="Imagen"> | [https://aszurita.github.io/aszurita/](https://aszurita.github.io/aszurita/) |
 
+### Proyecto 01: Proyecto 01: Curriculum Vitae - HTML & CSS
+| Fuente | Enlace|
+|--------|-----------------------|
+| <img src="https://github.com/user-attachments/assets/c18e5a94-b902-4680-b383-883afd504374" width="35" height="35" alt="Imagen"> | [https://github.com/aszurita/curriculum](https://github.com/aszurita/curriculum) |
+| <img src="https://github.com/user-attachments/assets/9671dc25-1454-4795-9906-d3ac7360301e" width="35" height="35" alt="Imagen"> | [https://aszurita.github.io/curriculum/](https://aszurita.github.io/curriculum/) |
+
 ## Actividades Previas 
 
 <table>
