@@ -91,4 +91,13 @@
     <td><a href="https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-08">Actividad-Previa-08</a></td>
   </tr
 </table>
+<table>
+  <tr>
+    <th colspan="2" style="text-align:center;">Actividad Previa 09</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c18e5a94-b902-4680-b383-883afd504374" width="35" height="35" alt="Imagen"></td>
+    <td><a href="https://github.com/Desarrollo-Aplicaciones-Web-y-Moviles/Actividad-Previa-09">Actividad-Previa-09</a></td>
+  </tr
+</table>
 
